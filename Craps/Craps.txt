@@ -1,0 +1,191 @@
+/*
+ * Isaac Van Meter
+ * Project 2
+ * 5/4/23
+ * This is my own original work.
+ */
+ Output: 
+Isaac has 50 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Isaac placed 20 chips on the pass line.
+-- Dice roll --
+result = 4
+result = 2
+Total result = 6
+
+The point is 6.
+-- Dice roll --
+result = 3
+result = 1
+Total result = 4
+-- Dice roll --
+result = 3
+result = 1
+Total result = 4
+-- Dice roll --
+result = 4
+result = 1
+Total result = 5
+-- Dice roll --
+result = 3
+result = 5
+Total result = 8
+-- Dice roll --
+result = 4
+result = 1
+Total result = 5
+-- Dice roll --
+result = 6
+result = 2
+Total result = 8
+-- Dice roll --
+result = 2
+result = 2
+Total result = 4
+-- Dice roll --
+result = 2
+result = 1
+Total result = 3
+-- Dice roll --
+result = 1
+result = 6
+Total result = 7
+A 7 was rolled. Isaac losses.
+Isaac has 30 chips. Do you wish to keep playing? (yes/no)
+no
+Isaac ended the game.
+Isaac ended the game with 30 chips!
+Regan has 50 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Regan placed 20 chips on the pass line.
+-- Dice roll --
+result = 4
+result = 4
+Total result = 8
+
+The point is 8.
+-- Dice roll --
+result = 2
+result = 5
+Total result = 7
+A 7 was rolled. Regan losses.
+Regan has 30 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Regan placed 15 chips on the pass line.
+-- Dice roll --
+result = 4
+result = 6
+Total result = 10
+
+The point is 10.
+-- Dice roll --
+result = 4
+result = 4
+Total result = 8
+-- Dice roll --
+result = 5
+result = 1
+Total result = 6
+-- Dice roll --
+result = 4
+result = 3
+Total result = 7
+A 7 was rolled. Regan losses.
+Regan has 15 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Regan placed 5 chips on the pass line.
+-- Dice roll --
+result = 4
+result = 2
+Total result = 6
+
+The point is 6.
+-- Dice roll --
+result = 5
+result = 2
+Total result = 7
+A 7 was rolled. Regan losses.
+Regan has 10 chips. Do you wish to keep playing? (yes/no)
+no
+Regan ended the game.
+Regan ended the game with 10 chips!
+Garrett has 50 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Garrett placed 10 chips on the pass line.
+-- Dice roll --
+result = 6
+result = 5
+Total result = 11
+Garrett wins!!!
+Garrett has 60 chips. Do you wish to keep playing? (yes/no)
+
+Invalid response.
+Garrett has 60 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Garrett placed 0 chips on the pass line.
+-- Dice roll --
+result = 1
+result = 3
+Total result = 4
+
+The point is 4.
+-- Dice roll --
+result = 2
+result = 2
+Total result = 4
+Garrett wins!!!
+Garrett has 60 chips. Do you wish to keep playing? (yes/no)
+yes
+
+-----Round-----
+
+Garrett placed 10 chips on the pass line.
+-- Dice roll --
+result = 3
+result = 1
+Total result = 4
+
+The point is 4.
+-- Dice roll --
+result = 2
+result = 3
+Total result = 5
+-- Dice roll --
+result = 5
+result = 4
+Total result = 9
+-- Dice roll --
+result = 3
+result = 5
+Total result = 8
+-- Dice roll --
+result = 2
+result = 3
+Total result = 5
+-- Dice roll --
+result = 5
+result = 2
+Total result = 7
+A 7 was rolled. Garrett losses.
+Garrett has 50 chips. Do you wish to keep playing? (yes/no)
+no
+Garrett ended the game.
+Garrett ended the game with 50 chips!
